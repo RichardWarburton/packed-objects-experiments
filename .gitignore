@@ -4,3 +4,15 @@
 *.jar
 *.war
 *.ear
+
+# Idea
+*.iml
+.idea/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# maven
+target/
